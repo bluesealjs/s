@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about react, ant-design, nodejs, MERN stack
 - 😄 Pronouns: he/him
 - ✉️ Contact: <a href="mailto:rcmkkskp@gmail.com">Hy Sudhir!</a>
+- 💻 Journey: <a href="https://stackoverflow.com/story/sudhirpradhan">My Developer Story</a> 
 
 
 [![Sudhir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtf123)](https://github.com/anuraghazra/github-readme-stats)
