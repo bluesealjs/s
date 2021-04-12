@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning blogging and marketing
 - 💬 Ask me about react, ant-design, nodejs, MERN stack
 - 😄 Pronouns: he/him
-- ✉️ Contact: rcmkkskp@gmail.com
+- ✉️ Contact: <a href="mailto:rcmkkskp@gmail.com">say Hi</a>
 
 
 [![Sudhir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtf123)](https://github.com/anuraghazra/github-readme-stats)
