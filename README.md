@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 
-[![Sudhir Pradhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtf123)](https://github.com/anuraghazra/github-readme-stats)
+[![Sudhir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtf123)](https://github.com/anuraghazra/github-readme-stats)
+
+![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhir-pradhan&hide=contribs,prs)
