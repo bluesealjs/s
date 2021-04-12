@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 -->
 
-[![Sudhir Pradhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudhir-pradhan)](https://github.com/anuraghazra/github-readme-stats)
+[![Sudhir Pradhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtf123)](https://github.com/anuraghazra/github-readme-stats)
