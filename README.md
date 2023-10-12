@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 <!--
 [![Sudhir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtf123)](https://github.com/anuraghazra/github-readme-stats)
+https://raw.githubusercontent.com/sudhir-pradhan/sudhir-pradhan/main/SO-dev-story-2022-03-28%20161645.jpg
 -->
 
 ![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhir-pradhan&hide=stars,prs&show_icons=true&theme=merko)
