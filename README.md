@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about react, ant-design, nodejs, MERN stack
 - 😄 Pronouns: he/him
 <!--
-- ✉️ Contact: <a href="mailto:rcmkkskp@gmail.com">Hy Sudhir!</a>
+- ✉️ Contact: <a href="mailto:na @gmail.com">bluesealjs!</a>
 
 - 💻 Journey: <a href="https://raw.githubusercontent.com/bluesealjs/bluesealjs/main/SO-dev-story-2022-03-28%20161645.jpg" target="_blank" rel="noopener noreferrer">My Developer Story</a> 
 -->
