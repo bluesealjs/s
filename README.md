@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**sudhir-pradhan/sudhir-pradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**bluesealjs/bluesealjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 
 Here are some ideas to get you started:
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <!--
 - ✉️ Contact: <a href="mailto:rcmkkskp@gmail.com">Hy Sudhir!</a>
 
-- 💻 Journey: <a href="https://raw.githubusercontent.com/sudhir-pradhan/sudhir-pradhan/main/SO-dev-story-2022-03-28%20161645.jpg" target="_blank" rel="noopener noreferrer">My Developer Story</a> 
+- 💻 Journey: <a href="https://raw.githubusercontent.com/bluesealjs/bluesealjs/main/SO-dev-story-2022-03-28%20161645.jpg" target="_blank" rel="noopener noreferrer">My Developer Story</a> 
 -->
 <!--
 [![Sudhir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtf123)](https://github.com/anuraghazra/github-readme-stats)
-https://raw.githubusercontent.com/sudhir-pradhan/sudhir-pradhan/main/SO-dev-story-2022-03-28%20161645.jpg
+https://raw.githubusercontent.com/bluesealjs/bluesealjs/main/SO-dev-story-2022-03-28%20161645.jpg
 -->
 
 ![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluesealjs&hide=stars,prs&show_icons=true&theme=merko)
